@@ -7029,9 +7029,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/599375885
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5nfhTLs/cgtn-documentary.jpg" group-title="Lifestyle & Documentary" tvg-id="CGTNDocumentary" tvg-name="CGTNDocumentary", CGTN Documentary
 https://cdn11jtedge.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f984784ccb4de0007dfad74/colorLogoPNG.png" group-title="Entertainment" tvg-id="ClubbingTV.fr" tvg-name="ClubbingTV.fr", Clubbing TV
-https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="Lifestyle & Documentary" tvg-id="discoveryscience.us" tvg-name="discoveryscience.us", Discovery Science
 http://aflaxtv.xyz:8080/Wat068/924a937d/157530
 
@@ -7107,12 +7104,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d796e
 
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5fb5836fe745b600070fc743/colorLogoPNG.png" group-title="Lifestyle & Documentary" tvg-id="PlutoTVBBCHome.us" tvg-name="PlutoTVBBCHome.us", Pluto TV BBC Home
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="Entertainment" tvg-id="PlutoTVVevoPop.us" tvg-name="PlutoTVVevoPop.us", Pluto TV Vevo Pop
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d93b635b43dd1a399b39eee&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=890&terminate=false&userId=
-
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg" group-title="Entertainment" tvg-id="PlutoTVVEVORB.us" tvg-name="PlutoTVVEVORB.us", Pluto TV VEVO R&B
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/red-2010.jpg" group-title="VOD English" tvg-id="" tvg-name="", RED (2010)
 https://www.googleapis.com/drive/v3/files/1xT5JGtLUqI4Z8vYLf21AzzdplBr7z1iD?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY

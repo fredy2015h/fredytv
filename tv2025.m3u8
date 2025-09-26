@@ -2735,17 +2735,11 @@ http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/KpopTV.png" group-title="Music", K-PopTV
 https://wahyu1ptv.pages.dev/kPopTV.m3u8
 
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/KPopTvPlay.png" group-title="Music",K-PopTvPlay
-https://wahyu1ptv.pages.dev/KPopTvPlay.m3u8
-
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/K-ContentsVoyage.png" group-title="Music", K-ContentsVoyage
 https://wahyu1ptv.pages.dev/K-ContentsVoyage.m3u8
 
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/kPopCV.png" group-title="Music",K-PopShowChampion
 https://wahyu1ptv.pages.dev/kPopCV.m3u8
-
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/kPopCjENM.png" group-title="Music", K-PopByCjENM
-https://wahyu1ptv.pages.dev/kPopCjENM.m3u8
 
 <=================== Dens =============================>
 

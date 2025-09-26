@@ -2732,13 +2732,13 @@ https://live.24hrkpop.com/hls/3/stream.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9IXUYX-Kd085RyqGQRWNF8HjuNLUGDGZ4Pj_3U7p6ymWn3sVTBnqnw2QRm1ahKvViwAo5yadfCJFfbYSWqUMImx6cNZNyLeHYcRMmBwC3bDj3gPSp6EN6BgEfilxXWo7EU7Q2oQIilfNHFtJOdoXxKb5srGtYn9Fk3UlPYUo5YTvGvfpaqMjGMyUqSoqA/s700/RELOAD%20MUSIC.png" group-title="MUSIC", RELOAD MUSIC
 http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
 
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/KpopTV.png" group-title="Music", K-PopTV
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/KpopTV.png" group-title="MUSIC", K-PopTV
 https://wahyu1ptv.pages.dev/kPopTV.m3u8
 
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/K-ContentsVoyage.png" group-title="Music", K-ContentsVoyage
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/K-ContentsVoyage.png" group-title="MUSIC", K-ContentsVoyage
 https://wahyu1ptv.pages.dev/K-ContentsVoyage.m3u8
 
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/kPopCV.png" group-title="Music",K-PopShowChampion
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/kPopCV.png" group-title="MUSIC",K-PopShowChampion
 https://wahyu1ptv.pages.dev/kPopCV.m3u8
 
 <=================== Dens =============================>

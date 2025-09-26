@@ -7589,27 +7589,6 @@ https://storage.dewanonton.online/hls/8369ed39-f8c4-4e87-bf70-3ac1c50dcab0.mp4/i
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMR2pd8WIgGetnqqHeOhIt4RUm311Wo_uOD4AMN6N8u7sMRSIv" group-title="VOD English" tvg-id="" tvg-name="", DESPICABLE ME 4 (2024)
 http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/071886f2-5831-51dc-b328-afb8c94b4bea/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/soundeffects/images/4/4c/Madagascar_poster.png/revision/latest?cb=20151219155240" group-title="VOD English" tvg-id="" tvg-name="", Madagascar (2005)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"respfhTW2qkGPNcOMKBBKQ","kid":"ZAw1P9UsVqad4YmgCwVpZQ"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5dc58e31cbea8a6a4ef4acd7_hbovodhd/dash0/MYS_index.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91u7jPIei0L._AC_UF894,1000_QL80_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Madagascar: Escape 2 Africa (2008)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"N6p2P/MoCWjKDrlZmQGAtQ","kid":"CUf9DdgVU0GyWylBhCcdXA"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5de9aba5cbea8a6a4ef81ade_hbovodhd/dash0/MYS_index.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81wLmqOPREL._AC_UF894,1000_QL80_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Madagascar 3: Europes Most Wanted (2012)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mXv5bUs+K+wma2ug+k7nNQ","kid":"iL+vHPKqX4Clax2KMPzSPw"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6010249c6d048943f772720c_hbovodhd/dash0/MYS_DOLBY_index.mpd
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Mulan_%282020_film%29_poster.jpg" group-title="VOD English" tvg-id="" tvg-name="", Mulan (2020)
 https://storage.dewanonton.online/hls/229f61c1-389e-4235-a6db-3e076ff012b3.mp4/index.m3u8
 
@@ -7673,13 +7652,6 @@ https://storage.dewanonton.online/hls/9cc5351e-2afd-4c68-99cd-8b2902077893.mp4/i
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGI4NTEwNTAtZDcwMi00MDkxLTg1OGYtNTZmMzE3ZDljNzVlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX190_CR0,0,190,281_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Kingdom of the Planet of the Apes (2024)
 https://storage.dewanonton.online/hls/2eae9a23-868e-44df-8a12-dc74ff7e4329.mp4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/DowntonAbbey2019Poster.jpg" group-title="VOD English" tvg-id="" tvg-name="", Downton Abbey (2019)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TBnXdsPKnfd6CBYSbRNmnQ","kid":"MPsgTsaRXH2k06YYeXxuRg"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63d25b9ad940521074c4cd82_hbovodhd/dash0/MYS_DOLBY_index.mpd
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2EzZTcwMDgtNDExOC00MTIzLThlYjAtY2UxMWNjMDRiZDQ2XkEyXkFqcGdeQXVyMTUzMTc0MTI3._V1_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Dragon Ball Super: Super Hero (2022)
 https://storage.dewanonton.online/hls/3eed219d-4b46-46fd-8f58-960619938d75.mp4/index.m3u8
 
@@ -7694,13 +7666,6 @@ https://storage.dewanonton.online/hls/067224f8-459e-4b2f-a593-4cd3c494ff1b.mp4/i
 
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p13472534_v_h8_ae.jpg?w=1280&h=720" group-title="VOD English" tvg-id="" tvg-name="", Barbie (2023)
 https://storage.dewanonton.online/hls/fe06e52b-c5f6-449f-8d6b-92da1039cc93.mp4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/Theatrical_poster_for_Dungeons_and_Dragons%2C_Honor_Among_Thieves.jpg" group-title="VOD English" tvg-id="" tvg-name="", Dungeons & Dragons: Honour Among Thieves (2023)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6ZQIeLQaO+CUB7+GER/DwQ","kid":"ySVsIxm+4RVesasF3bKEjA"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64cbd7dcd940521074dc3623_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVw5TbBto0N605-BV1qfu7c8jdA1K_YL5cYTUfXzMl9_lV6q01" group-title="VOD English" tvg-id="" tvg-name="", The Hunger Games: The Ballad of Songbirds & Snakes (2023)
 https://cdn.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/mBlYh91T0EDRMJEU0EUVa5EM4hTOKpnQEZkSvBlMstWM/Original
@@ -7741,56 +7706,6 @@ https://storage.dewanonton.online/hls/a9d20d2c-e424-4220-95a8-13ea62bfd83f.mp4/i
 #EXTINF:-1 tvg-logo="https://grhsjournalist.com/wp-content/uploads/2024/02/MV5BNDYzYzc0MDYtMGM2MC00YzNjLWJhMjYtYzJhMWViMjgxZTcwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Anyone but You (2023)
 https://storage.dewanonton.online/hls/ca5475e7-1227-4c93-9248-616bf2588067.mp4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5mGQDkEgyEgjGeTlm_njFIAfkKiSCloIYCsuYRrbz_0LQNiNO" group-title="VOD English" tvg-id="" tvg-name="", Downton Abbey: A New Era (2022)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lK1+JsjF3P4soonKgcrrxQ","kid":"a04BStrX+2LzahKEOq3mHQ"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63ca4d73d940521074c40d1f_hbovodhd/dash0/MYS_DOLBY_index.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXxKaL__Q2qR9RrmBtRFEOkIitISIZfNnsXZ-QFeUcd3gCwiXd" group-title="VOD English" tvg-id="" tvg-name="", Evil Dead Rise (2023)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mHyzZBIbiqyI1tM1RMlSaw","kid":"kiHI5nx1bwlPRUICQthWDg"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/648828a5d940521074d5dcf8_hbovodhd/dash0/MYS_DOLBY_index.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIdi3IbcRi4CzUB_NZB8F6B8AjyLdMFvrurlw21zw-J7iqc0S1" group-title="VOD Chinese / Korean" tvg-id="" tvg-name="", Sakra (2023)
-https://cdn.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/R1ybyVGRxVnd5gjVrBDeNF2YzlmNp5kaZhlYIhmU4IVM/Original
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmQ5ZTM0OTEtMjIyNC00MGJhLWJjYzItYjQ2MDRhOTRlZjhiXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="VOD Chinese / Korean" tvg-id="" tvg-name="", Ride on (2023)
-https://www.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/phVYTJHemNUU4JzNzUWVDdjVHJmQwgUa5ZjVzc1TalTM/Original
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWEyZjNlZmQtMGMwNC00NTc2LTllOGMtYTYyOTkwNDgwZDdkXkEyXkFqcGdeQXVyNDM1Nzc0MTI@._V1_.jpg" group-title="VOD Chinese / Korean" tvg-id="" tvg-name="", Born to Fly (2023)
-https://www.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/MlVRFpXLq9FMwhzZC9WLqJnc5M2M4kkWL1yNN5kVFlTM/Original
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTE0YWY0ZTktYzNlZi00ZTY0LTkzZTAtMWVhMjQyMTU1YjM4XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_.jpg" group-title="VOD Chinese / Korean" tvg-id="" tvg-name="", Creation of the Gods I: Kingdom of Storms (2023)
-https://cdn.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/1IFSHBjUEBFerBHN2QjQ0UjbtlDVuZDZrR2M2ATeJ5UM/Original
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBhNTA1NWYtZTAxZC00YzAwLTllZWUtNWJhYjA5OTFlNGU0XkEyXkFqcGdeQXVyNTg5NjQxMjc@._V1_.jpg" group-title="VOD Chinese / Korean" tvg-id="" tvg-name="", Hello Ghost (2023)
-https://www.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/Gh1bMVzSNVFVFljWwcTMG1WLxpXQq1UNfRnd4AXLDBTM/Original
-
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w500/1VSuB0kB5wtLfs9wLpUieRa6vvK.jpg" group-title="VOD Chinese / Korean" tvg-id="" tvg-name="", Raid on the Lethal Zone (2023)
-https://www.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/wZ1Srl3VqNEOfJVcw0kWjt0du9ldw5UW1MkYa5EefVXM/Original
-
-#EXTINF:-1 tvg-logo="https://i.mydramalist.com/0wmwj4_3f.jpg" group-title="VOD Chinese / Korean" tvg-id="" tvg-name="", Yesterday Once More (2023)
-https://www.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/HdGTjhkeLxULGhFVEJUWNRFe6NTLJFlMZd1NWNlaJVVM/Original
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Hidden_Strike_%28poster%29.png" group-title="VOD Chinese / Korean" tvg-id="" tvg-name="", Hidden Strike (2023)
-https://cdn.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/XVWQohnR2lkVfFmeWZHWw90YM9mcnZVSPhmbrFEZhVUM/Original
-
-#EXTINF:-1 tvg-logo="https://i.mydramalist.com/Rxd66_4f.jpg" group-title="VOD Chinese / Korean" tvg-id="" tvg-name="", Hidden Blade (2023)
-https://www.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/OZkYmBlUyMkb2R3UNJnQIhza30GSlRzQahUasBTe3BTM/Original
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGZiMDg5MDQtNTc0Mi00Y2EwLTlhY2EtNjI2NjllMzkwZWMyXkEyXkFqcGdeQXVyMTU4NjM5MDk0._V1_.jpg" group-title="VOD Chinese / Korean" tvg-id="" tvg-name="", Operation Moscow (2023)
-https://www.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/YBDbhp3V5hjcoBjN2plMnxEVEVFNzgUSpJUSTVmcxJTM/Original
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTIwMGZlNjctZTYzZi00MDJlLTk4Y2EtNDRiNjEzYmU3MzI0XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="VOD Chinese / Korean" tvg-id="" tvg-name="", Full River Red (2023)
-https://www.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/rNFRVlXNmB3YmRnZ30kaJlUcS50VtRkZrZDaPNjWxRWM/Original
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/TheWanderingEarth2.jpg/220px-TheWanderingEarth2.jpg" group-title="VOD Chinese / Korean" tvg-id="" tvg-name="", The Wandering Earth 2 (2023)
-https://cdn.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/z9WSP5UL4UHRWBHWEdmYRdlMLF3aodlUiNWOSJnaB9VM/Original
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM5YTRlZmUtZGVmYi00ZjE2LWIyNzAtOWVhMDk1MDdkYzhjXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_FMjpg_UX1000_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Nobody (2021)
 https://storage.dewanonton.online/hls/5deeb3f9-fdee-405f-8032-fc91b6284cf5.mp4/index.m3u8
 
@@ -7811,13 +7726,6 @@ https://storage.dewanonton.online/hls/99555a28-e31a-484d-a3ed-446b7c19739f.mp4/i
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/On_a_Wing_and_a_Prayer_poster.jpg/220px-On_a_Wing_and_a_Prayer_poster.jpg" group-title="VOD English" tvg-id="" tvg-name="", On a Wing and a Prayer (2023)
 https://storage.dewanonton.online/hls/7c3e91ac-33aa-4c52-9f68-409fa8c60626.mp4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/AI_Poster.jpg" group-title="VOD English" tvg-id="" tvg-name="", A.I. Artificial Intelligence (2001)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xBeF/YMRn1melar5/HhCxQ","kid":"YdBwqyniWUSf23wB+yhL4Q"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e37e65acbea8a6a4eff883e_hbovodhd/dash0/MYS_index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/Escape_Room_Tournament_of_Champions_Movie_Poster.jpg" group-title="VOD English" tvg-id="" tvg-name="", ESCAPE ROOM: TOURNAMENT OF CHAMPIONS (2021)
 https://storage.dewanonton.online/hls/0ee0abf6-ae35-437f-8a97-5f99db275a35.mp4/index.m3u8
@@ -7870,13 +7778,6 @@ https://cdn.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Bad_Boys_Ride_or_Die_%282024%29_poster.jpg/220px-Bad_Boys_Ride_or_Die_%282024%29_poster.jpg" group-title="VOD English" tvg-id="" tvg-name="", BAD BOYS: RIDE OR DIE (2024)
 https://storage.dewanonton.online/hls/0a4e3279-7cec-4857-bc70-dd2dfd5d8c41.mp4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i3.wp.com/image-bunny.tmdb.org/t/p/w185/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", A STAR IS BORN (2018)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"AXtIe2n35STScCaNUsQeKg","kid":"mQjuPsrZWN2n4r9DwpNP/Q"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d688198a7beea6fa07806ee_hbovodhd/dash0/MYS_index.mpd
-
 #EXTINF:-1 tvg-logo="https://i3.wp.com/image-bunny.tmdb.org/t/p/w185/y5DNLVg0gPiGSkuK4yFc4fjQ42Q.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", The Card Counter (2021) 
 https://www.googleapis.com/drive/v3/files/19DXteRi_H1tKRY4hRHwbeir1Km1hAA-n?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
@@ -7907,13 +7808,6 @@ https://storage.dewanonton.online/hls/22ce81e8-c3b1-444d-a1bf-ef5e88669a7d.mp4/i
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9S50foUIYGwiNPWOxi1WJF6IPwI.jpg" group-title="VOD English" tvg-id="" tvg-name="", Independence Day: Resurgence (2016)
 https://storage.dewanonton.online/hls/629db5f8-dcd5-4830-b8ca-f5041f520331.mp4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/tMaGZ2HR8HAFwkx4YRib0CDVfNT.jpg" group-title="VOD English" tvg-id="" tvg-name="", Minions (2015)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rJSfIEFV0MKJvn2K6EeJVg","kid":"bE+HWFWBV7CUq+OppWqePg"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60b4a81f8caa5a5e0b11f207_hbovodhd/dash0/MYS_DOLBY_index.mpd
-
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Yellow_is_the_New_Black_S-162319392-large.jpg" group-title="VOD English" tvg-id="" tvg-name="", Yellow is the New Black (2018)
 https://be6224.rcr92.lim01.cdn112.com/download/01/02748/es9mowmhn2ch_h/D21%20FUN%20Yellow%20is%20the%20new%20black2018%20mp4?t=45CQvctXe5HmSt8Txm_QOCi9yU2QmEiLs26v0Ru-04U&s=1708872057&e=43200&f=13742154&srv=20&asn=4788&sp=500
 
@@ -7928,20 +7822,6 @@ https://www.googleapis.com/drive/v3/files/1r1LAc4gIRlIFJAjvOBDvDuPHek7CAOo4?alt=
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/1sHH629kR3ZDmPfL90JkUWew4wz.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Masquerade (2021) 
 https://www.googleapis.com/drive/v3/files/1ejcmKyRCcTRG7khTLThq563yR-SgXsOJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/4Q1n3TwieoULnuaztu9aFjqHDTI.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Memory (2022) 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dpX4S8UFSWWllHzUTEgPSg","kid":"yxe+xyRPKgPlZEeAr4hIbw"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/640687a2d940521074c9b9f1_hbovodhd/dash0/MYS_DOLBY_index.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NYRrrNN8UCd1uYbffaC5QA", "kid":"GU3VYXH/UnKtPFygDMqy8g" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/khlcsYHr7Hi4Tkymc7UGDvcUcx.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Mission Impossible: Ghost Protocol (2011)
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5da5936ccbea8a6a4ef19db9_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/ecx.images-amazon.com/images/M/MV5BOThhNTA1YjItYzk2Ny00M2Y1LWJlYWUtZDQyZDU0YmY5Y2M5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._UX185_.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Mission: Impossible III (2006)
 https://www.googleapis.com/drive/v3/files/1PuMUxBTP3NN9wBS7RGXcmd1L0V8I_tro?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -7979,13 +7859,6 @@ https://www.googleapis.com/drive/v3/files/1DHlv8WnIB9yfgWybDQu7WfNenPjw5bzt?alt=
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHF3YcicaEVE_msNU1UBCFmVuQjFdf27VeIw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", X2: X-Men United (2003)
 https://www.googleapis.com/drive/v3/files/1Oylq7WiqqcLsuqRlLLpi8T7ZprlOI53Q?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//uDQibffYgssdiqx7izO57wdLc6.jpg" group-title="VOD English" tvg-id="" tvg-name="", Harry Potter And The Prisoner Of Azkaban (2004)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gFGf7jhh4EuUK3TNj21k0w","kid":"G+msug+qX3WcPQ8SPVauKw"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5dc19061cbea8a6a4ef447c3_hbovodhd/dash0/MYS_DOLBY_index.mpd
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV0Wbkdykxij_7ywwfhvWc4PYElouYxFCQIA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Harry Potter and the Philosophers Stone (2001)
 https://www.googleapis.com/drive/v3/files/1btrgR_4dVAUbh1mliqSK6Z1Y2L69_Sd8?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 
@@ -8018,13 +7891,6 @@ https://www.googleapis.com/drive/v3/files/1FX_805Q7Au3q8uN0n3xWxqkLeewxNEKZ?alt=
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/6ZYOpyhFZrAQIe1BuhqVgzfAdGZ.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Superman Returns (2006)
 https://www.googleapis.com/drive/v3/files/1cHN_8eCfguLLlCoz9bWBuNJWyJpBUchp?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/qC167IbZpSrwX7wWgg3BeDQbTDr.jpg" group-title="VOD English" tvg-id="" tvg-name="", 2 Fast 2 Furious (2003)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nG+pS4gXunI5cVia5BXTWA","kid":"bYo4XRGFVx2OSXOIk5Fz3w"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7fab803ae366782ad9a688_hbovodhd/dash0/MYS_index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpTk17Ualk-QIAd-0vdwFg-hjOVVlQqtAuhg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Avengers Infinity Wars (2018)
 https://cloud.hownetwork.xyz/xxx/cb34b42763d0f609f2873bc2dbc6d956/31/480.m3u8
@@ -8074,43 +7940,8 @@ https://www.googleapis.com/drive/v3/files/1SBdTw5uwSomzz_3moZv-tGyXlqqBG0Cj?alt=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Guardians_of_the_Galaxy_Vol._3_poster.jpg" group-title="VOD English" tvg-id="" tvg-name="", GUARDIANS OF THE GALAXY VOL. 3 (2023)
 https://storage.dewanonton.online/hls/7a5652d4-708a-4c0f-8147-be7700dd1ce9.mp4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//iGoXIpQb7Pot00EEdwpwPajheZ5.jpg" group-title="VOD English" tvg-id="" tvg-name="", Harry Potter And The Deathly Hallows Part 1 (2010)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hx+ia1e+rkH+lEBatd32eQ","kid":"dRHmVhkTVZmYcB/9zTi68A"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d9046b4cbea8a6a4eef9826_hbovodhd/dash0/MYS_DOLBY_index.mpd
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//da22ZBmrDOXOCDRvr8Gic8ldhv4.jpg" group-title="VOD English" tvg-id="" tvg-name="", Harry Potter And The Deathly Hallows Part 2 (2011)
 https://www.googleapis.com/drive/v3/files/1_t07hpXkza3F5QOklu33INO0TkI1Zdnc?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg" group-title="VOD English" tvg-id="" tvg-name="", Harry Potter And The Goblet Of Fire (2005)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mcn/ElqCP2g+WBcapsbuSg","kid":"XbJMb2dXWL6ZhdsLFuEqtw"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d904e95cbea8a6a4eef98eb_hbovodhd/dash0/MYS_DOLBY_index.mpd
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//Ag21otqbeynZPGjEbzyr3X5Us0j.jpg" group-title="VOD English" tvg-id="" tvg-name="", Harry Potter And The Half-Blood Prince (2009)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rgC+c7DOJ+5+fNGmDEctWQ","kid":"Z04dF4ehVAmNVEZeYP1Uyw"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d9056b7cbea8a6a4eef99b8_hbovodhd/dash0/MYS_DOLBY_index.mpd
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//5aOyriWkPec0zUDxmHFP9qMmBaj.jpg" group-title="VOD English" tvg-id="" tvg-name="", Harry Potter And The Order Of The Phoenix (2007)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SilDqzaTX4L/olkPWjqp6g","kid":"CADdqggLWDidAvhkqm+lqQ"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d905ff3cbea8a6a4eef9a9d_hbovodhd/dash0/MYS_DOLBY_index.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeoTRj3jMTv4tg7KdAG3sTRLUgonPU8xeZmA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Harry Potter and the Chamber of Secrets (2002)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"oKGwqNr2eblYd6898+2J6Q","kid":"LpIdA38FXlO6Ph+mYhT+AQ"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d9059a6cbea8a6a4eef9a03_hbovodhd/dash0/MYS_index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTugaq2ExGlLji-2JbVNCJ5vFkrUmKgyppXA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Iron Man (2008)
 https://www.googleapis.com/drive/v3/files/1nU9EIp4MATtajUFeeSosEAk9zp5ZokCR?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
@@ -8188,34 +8019,6 @@ https://storage.dewanonton.online/hls/24e80423-4650-40ff-98e5-df67ad44e121.mp4/i
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkxNzI3ODI4Nl5BMl5BanBnXkFtZTgwMjkwMjY4MjE@._V1_UX134_CR0,0,134,196_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", American Sniper (2014)
 https://storage.dewanonton.online/hls/f2633f60-8636-4fc5-a9e9-879099b61daf.mp4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw2Mf9amwMwxUFer5MQ3B7kHXW2Qm1Ah3Z1g&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Alvin And The Chipmunks Chipwrecked (2011)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Bd03QgM0XPms4btJ31Hk8g","kid":"cl1f5cS1XA6JASqj0gbI7A"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fac51b46d048943f7693ebd_hbovodhd/dash0/MYS_index.mpd
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fONOOf3RmWnCKFwSl9e0z61KlZs.jpg" group-title="VOD English" tvg-id="" tvg-name="", Alvin and the Chipmunks (2007)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Nx8bn/fVoPWu//LwEfBkBg","kid":"7wxsvRrQW6GVCGFYm/zF2w"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fac474a6d048943f7693dc1_hbovodhd/dash0/MYS_index.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhWkaHcX7zW9clJuovA-DKM2xHB2snXW1Iqg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Alvin And The Chipmunks The Squeakquel (2009)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"H3uYZMQiMI4KrRJd8ILiOQ","kid":"50BmP12GUaaerPdwoNgP3g"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fac63596d048943f7694065_hbovodhd/dash0/MYS_index.mpd
-
-#EXTINF:-1 tvg-logo="http://line.megacdn.live:80/images/16OcuuW5z509WILR6BmscNdXgw0_big.jpg" group-title="VOD English" tvg-id="" tvg-name="", Alvin and the Chipmunks: The Road Chip (2015)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Zz0ok2TH/RlkztBfgfOt1A","kid":"ipfwmjfnXmeNRCoom2jzCQ"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fac637c6d048943f769406a_hbovodhd/dash0/MYS_DOLBY_index.mpd
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGIyXd_DMi3toYfrDBl3bT_pqMDGQyQNeI-g&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Non-Stop (2014)
 https://storage.dewanonton.online/hls/776f7e49-46b7-464b-a21b-4775357ee76d.mp4/index.m3u8
 
@@ -8258,93 +8061,20 @@ https://storage.dewanonton.online/hls/ba1980b0-86a8-44fd-9ef7-cd4f88a1b1b6.mp4/i
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTExZmVjY2ItYTAzYi00MDdlLWFlOWItNTJhMDRjMzQ5ZGY0XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_UX134_CR0,0,134,196_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Eternals (2021)
 https://storage.dewanonton.online/hls/4e23c8d9-1ecc-4811-9082-65aeec897775.mp4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDQyODUwM2MtNzA0YS00ZjdmLTgzMjItZWRjN2YyYWE5ZTNjXkEyXkFqcGdeQXVyMTI2MzY1MjM1._UX185_CR0,0,185,263_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Minions: The Rise Of Gru (2022) 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XX0z44dh7V9zL8NfzMjjrw","kid":"I3FR6oWZvO1wJCsaYOK9zA"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63f31649d940521074c7e33c_hbovodhd/dash0/MYS_DOLBY_index.mpd
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRt2-73rwMJB6tUSltkYvRRyt68_fARIAyKw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Enola Holmes (2020)
 https://storage.dewanonton.online/hls/c05223f6-ac05-4d29-8890-98c2bad455b6.mp4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i3.wp.com/image-bunny.tmdb.org/t/p/w185/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", Enola Holmes 2 (2022)
 https://storage.dewanonton.online/hls/1723afac-ac0f-489c-9beb-d9f574620170.mp4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ1NjQyNDMtNzFlZS00ZGIzLTliMWUtNGJkMGMzNTBjNDg0XkEyXkFqcGdeQXVyMTE1NDI5MDQx._V1_QL75_UX190_CR0,0,190,281_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Fantastic Beasts The Secrets of Dumbledore 2022
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mP0H3MUeXlzgzmqpvE+rAg","kid":"8o2ETfUcoC0xjX3bhH90yA"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62792a41d940521074a4530c_hbovodhd/dash0/MYS_DOLBY_index.mpd
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzk5ODM0OTQ0N15BMl5BanBnXkFtZTcwODg2ODE4OA@@._V1_SY1000_SX649_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", G.I. Joe: Retaliation (2013)
 https://storage.dewanonton.online/hls/744008f8-8932-4b9c-9c3f-d0c0548b4f96.mp4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcidUFLhunkUlYbslBoEA44pTKaWP3TYHSaQ&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Jurassic Park (1993)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6bJRLE9bD6iFEcd54YmVQA","kid":"Zc/ioTX/V8a05jCJOPJ+kQ"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7fd9273ae366782ad9ab33_hbovodhd/dash0/MYS_index.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhbB2_YHLxAlBHqFgbZ2sCzniaPofRPiTFGQ&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Jurassic Park III (2001)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DhCUbkPdlCfRUhDIpAsxNA","kid":"jn5P2wUEWZeD3wqGzsnBDQ"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/61924d9cfbbcc21f45cea7b4_hbovodhd/dash0/MYS_index.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqicmdaaVv9a6YHBXNpVX5JwREAIyWrWMFaw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Jurassic World: Fallen Kingdom (2018)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"89E5vTKAptvvetzYNINg4w","kid":"WKeotI+TXdm+mkV2dQ02kQ"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d805be33ae366782ad9b79d_hbovodhd/dash0/MYS_index.mpd
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNDc4Mjk2MjA0NF5BMl5BanBnXkFtZTcwMzMyNjQ3Mw@@._QL50_UX134_CR0,0,134,196_AL_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Last Exorcism (2010)
 https://www.googleapis.com/drive/v3/files/1iAttqmsLPD2t_wFqj8CQ2INr9sdZyNmv?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzA87Wf4jo1h8JMk9GilyIYvwsA.jpg" group-title="VOD English" tvg-id="" tvg-name="", Ava (2020)
 https://storage.dewanonton.online/hls/4460ad34-7a84-4bda-a252-ff337d084b2d.mp4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6qmer6G5_pz4o7kZYspfPKlCfJHAOrBgPDA&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Aquaman (2018)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"pIRju2ABeKm/+zZ/gwDGZg","kid":"Fo+R69SEV5aRRsmYFUxn9Q"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5da9c19bcbea8a6a4ef2035c_hbovodhd/dash0/MYS_index.mpd
-
-#EXTINF:-1 tvg-logo="http://124s2.xyz:900/images/7lTnXOy0iNtBAdRP3TZvaKJ77F6_big.jpg" group-title="VOD English" tvg-id="" tvg-name="", Aquaman and the Lost Kingdom (2023)
-https://storage.dewanonton.online/hls/cad4820e-8427-4af4-a982-3ec3b56a42d8.mp4/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/LZh9Ujz.jpg" group-title="VOD English" tvg-id="" tvg-name="", Kung Fu Panda (2008)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qCaOAZYC9nD4xGMiLsFVOw","kid":"wfrsfLp2XWijERqDXH+Dwg"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7fa3a73ae366782ad9a5c4_hbovodhd/dash0/MYS_index.mpd
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/7HytloH.jpg" group-title="VOD English" tvg-id="" tvg-name="", Kung Fu Panda 2 (2011)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CYBq/DuE+mJuYPGU6dWBpw","kid":"ZEXyLLa/V4KpdXLPi0qNPw"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7fb2323ae366782ad9a74c_hbovodhd/dash0/MYS_index.mpd
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/NQL23Gd.jpg" group-title="VOD English" tvg-id="" tvg-name="", Kung Fu Panda 3 (2016)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lv5sJymXIp8hs4EgTj893g","kid":"6WYZodkTDkE6iEx2ke3O8g"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bbc0d2d940521074c2af68_hbovodhd/dash0/MYS_DOLBY_index.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkevr7xNI06Mhty417R8NvgaG-rfH8eRwZJg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Man of Steel (2013) 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VobtgETYxHbVn0fVrOK4qg","kid":"I5ZiuwnPWByRUG9o2Iz8bA"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/602f3cfc6d048943f7754cde_hbovodhd/dash0/MYS_index.mpd
 
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/XryfVhW.jpg" group-title="VOD English" tvg-id="" tvg-name="", Master Z: The Ip Man Legacy (2018)
 https://storage.dewanonton.online/hls/3ee921f1-b541-49aa-95dd-fed8a1486719.mp4/index.m3u8
@@ -8366,20 +8096,6 @@ https://stream.hownetwork.xyz/xxx/chronicles-narnia-voyage-dawn-treader-2010-blu
 
 #EXTINF:-1 tvg-logo="http://124s2.xyz:900/images/iwsMu0ehRPbtaSxqiaUDQB9qMWT_big.jpg" group-title="VOD English" tvg-id="" tvg-name="", Expend4bles (2023)
 https://storage.dewanonton.online/hls/46edfc88-4537-4464-a357-acc68d8becc3.mp4/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/XH4g120.jpg" group-title="VOD English" tvg-id="" tvg-name="", Batman The Dark Knight (2008)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QfbWkr4gRwm3ZhqP7EZ2BQ","kid":"fv2RICtbUhqYeYyzoP0ipw"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7786dd3ae366782ad8dcee_hbovodhd/dash0/MYS_index.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Batman_Forever_poster.png/220px-Batman_Forever_poster.png" group-title="VOD English" tvg-id="" tvg-name="", Batman Forever (1995)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0X2iQc3uHt8s8UUxPkPk8Q","kid":"uaC9tGnXUzCsDViGLJE4oA"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60fe83fee59f821aa9e6ef63_hbovodhd/dash0/MYS_index.mpd
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2Tnl5GH" group-title="VOD English" tvg-id="" tvg-name="", Twilight saga Eclipse (2010)
 https://stream.hownetwork.xyz/xxx/the-twilight-saga-eclipse-2010-bluray/11/480.m3u8
@@ -8411,9 +8127,6 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960220
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/eA8uvsjzlQp6kWr4AMa8WIYY8G7.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", Alas Pati Hutan Mati (2018)
 https://www.googleapis.com/drive/v3/files/1iGBhwZP9JmvV72t9NDW8CotWv_mZsWM2?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmUxOTAxNzItYmM5OC00OTc4LWFmZDAtZTRkNmQ5YWU0MjNlXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg" group-title="VOD Chinese / Korean" tvg-id="" tvg-name="", THE DUDE IN ME (2019)
-https://cdn.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/FJWYYdTbOpHbt0UQTx2brpVTEFzcTZzc1QTaBp0Q0ZXM/1920x804
-
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Jk7vPuGpWyc/Unp7ors51XI/AAAAAAAAAk0/5Z-03RuUyLk/s1600/highland_tower_poster_01.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", Highland Tower (2013)
 https://www.googleapis.com/drive/v3/files/1eScpmBAT8iP4hS1sl5_zzxo1xi_Q_36Z?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 
@@ -8438,13 +8151,6 @@ https://www.googleapis.com/drive/v3/files/1DMs-_0bDAhYxW-Dbo61DrWXkVg7bDs98?alt=
 #EXTINF:-1 tvg-logo="https://www.ohflix.com/uploads/video_thumb/4112.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", Kampung Zombie (2015)
 https://www.googleapis.com/drive/v3/files/16JOOVbGvRPxwdjMAruUeAJRb5DmWX0FT?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/Rcv5gXU.jpg" group-title="VOD English" tvg-id="" tvg-name="", Batman The Dark Knight Rises (2012)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"J/b5WzTFbudVpXAl6gifrg","kid":"4joteoMSXiiYIqMEcFaRhQ"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f9ac2526d048943f7679d56_hbovodhd/dash0/MYS_DOLBY_index.mpd
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Q5ZTFiMDUtY2RjZi00NGFiLTk4MGUtY2E3YWQ3Zjk5OGY4XkEyXkFqcGdeQXVyMjY1MDkyMzY@._V1_UY268_CR4,0,182,268_AL_.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", KL Zombie (2013)
 https://www.googleapis.com/drive/v3/files/1_G3yXeeKeGMHAcySTwLOBwxmAJ1-febt?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 
@@ -8460,13 +8166,6 @@ https://www.googleapis.com/drive/v3/files/11SniP8mGMudeIhUVx6QwMP42JgwHihbC?alt=
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/ifugXbVH4OGhc1QQuGIh4QITdsU.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", Surga Yang Tak Dirindukan II (2017)
 https://www.googleapis.com/drive/v3/files/1vOgC8xTOteHlGUFjPr_izOWchBrh783K?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/d3pVfiP.jpg" group-title="VOD English" tvg-id="" tvg-name="", Batman Begins (2005)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Luy6zltn4A0Me7wqtqvLyQ","kid":"WuvU+tNXVECHLsTBw6+1JA"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f9f139f6d048943f7680281_hbovodhd/dash0/MYS_index.mpd
-
 #EXTINF:-1 tvg-logo="https://www.ohflix.com/uploads/video_thumb/7037.jpg" group-title="VOD Malay" tvg-id="" tvg-name="", Tombiruo (2017)
 https://www.googleapis.com/drive/v3/files/1ZJlxKvPUyRErztXJAcE7TpLquvOGTqE1?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 
@@ -8476,13 +8175,6 @@ https://www.googleapis.com/drive/v3/files/1BdyOMkZYtfYjqUImkq4KCql7vPs-0K3-?alt=
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE_K-LJ6awLx-P-ORaaVnEeWhkomCHnUfVhg&usqp=CAU" group-title="VOD Malay" tvg-id="" tvg-name="", Polis Evo 2 (2018)
 https://www.googleapis.com/drive/v3/files/1OQivY3kLR3dqY_FXqbRPGmAguBPJjAGn?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/pk8TyMix5QtQ1ND5MROfIPvx4XJ.jpg" group-title="VOD English" tvg-id="" tvg-name="", Fast & Furious (2009)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"j1aAONDBWDt9R4x1ePgUsA","kid":"B52uUWYeao5PNKsCFUo1Yg"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636ba122d940521074bb2252_hbovodhd/dash0/MYS_DOLBY_index.mpd
-
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/vDztZS30sheoqnJnKyO4QMnf3f8.jpg" group-title="VOD English" tvg-id="" tvg-name="", Fast Five (2011)
 https://www.googleapis.com/drive/v3/files/1v_4c-2kfFcdcJdRGC7qAzrOvfweuy4Yg?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 
@@ -8491,13 +8183,6 @@ https://www.googleapis.com/drive/v3/files/1mg32G1imATt90mZJfUCAnKEmzw0fx2q_?alt=
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/cm2ffqb3XovzA5ZSzyN3jnn8qv0.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Fast and the Furious: Tokyo Drift (2006)
 https://www.googleapis.com/drive/v3/files/1t8RgTc4Wbd2VdUcm8iB7PyXUheqVPaYp?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/jPFsjmFlTFmpIY41BP3C4sVYOKw.jpg" group-title="VOD English" tvg-id="" tvg-name="", Furious 7 (2015)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3hMKWk7H4/IkTlXS5ZMnZw","kid":"Tubx/OX9L3Td2iFj6RwV+Q"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636bbd45d940521074bb2535_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Fate Of The Furious (2017)
 https://www.googleapis.com/drive/v3/files/1r35Zw5-YmPjC1qiCFKe-I1C9AA5dwufg?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
@@ -8767,13 +8452,6 @@ https://storage.dewanonton.online/hls/77d9b582-fb66-4487-9855-d870701e7f73.mp4/i
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs5m-XxNg8IYLnqUhSLuYoMiUdT7HCHZI1fg&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Fantastic Beasts The Crimes Of Grindelwald (2018)
 https://storage.dewanonton.online/hls/2b86eda2-944c-49e3-8ad8-3684a3382574.mp4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfE0R94v1E8cuKAerbskfD3VfUt.jpg" group-title="VOD English" tvg-id="" tvg-name="", It Chapter Two (2019)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0VbHQDZQKPaiquzvn4SpDg","kid":"RFejpojKWyiUKQ8U6rIIuw"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ef5fd6c6d048943f7583351_hbovodhd/dash0/MYS_index.mpd
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG1vhLbigWuIaYMTXk_7Sg37L84jY9tRNk4g&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", John Wick Chapter 2 (2017)
 https://www.googleapis.com/drive/v3/files/1BWXOLdlpmezHvDXt09-KntVHuR2BtvEL?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 
@@ -8794,13 +8472,6 @@ https://www.googleapis.com/drive/v3/files/1qcepF3rxt4AmsDjQyXmlpcpNseIDM2rk?alt=
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZEhZswzvAVb8RVTv7YhmgV9C4TijNQCHu5JsDTJkMLUrHTu3elZgPubjfvy3nEds949A&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Mission Impossible - Rogue Nation (2015)
 https://www.googleapis.com/drive/v3/files/1ChcA1u9D1t1ejchklYbOMgEAlji7aJO1?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"s6Rkv7GLX3Rw9uENbigN6w", "kid":"JqJhDpnAW56J7lyxjI97Cg" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKzsr-sk776ASWHd1BAjgNj1uN_nAFFVRdtL1bXFRRJOWLtcexg-G4SKgr6sxoJFLuXBE&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Mission Impossible (1996)
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5da594c7cbea8a6a4ef19ddc_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="https://walter.trakt.tv/images/movies/000/672/549/posters/thumb/5e3a02f4d6.jpg" group-title="VOD English" tvg-id="" tvg-name="", Monkey King The One and Only 2021
 https://storage.dewanonton.online/hls/a44b3446-61bc-4319-bdda-014f18550865.mp4/index.m3u8
@@ -9002,13 +8673,6 @@ https://storage.dewanonton.online/hls/9e142a73-dc98-4cba-ac0e-74b587b7e110.mp4/i
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODRiNmFhY2EtMGY2OC00YjI2LWIyYjQtYzFiM2ZhNjdhYzE4XkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title=“VOD English" tvg-id="" tvg-name="", Constantine
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Constantine.mp4
 
-#EXTINF:-1 tvg-logo="https://www.ohflix.com/uploads/video_thumb/1300.jpg" group-title="VOD English" tvg-id="" tvg-name="", Fantastic Beasts and Where to Find Them (2016)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"818rDUWSoftLcGimESi32g","kid":"rhqRz1Guk9u6Q51kzADh/A"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62283b92d9405210749cb84c_hbovodhd/dash0/MYS_DOLBY_index.mpd
-
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/kfpyy1d9ZgUzQ3KV0x2ZfR7Iuek.jpg" group-title="VOD English" tvg-id="" tvg-name="", Batman Returns (1992)
 https://www.googleapis.com/drive/v3/files/1_2fZ9iyKagydmuR6mYDmeB_DWeiTX9Tl?alt=media&key=AIzaSyAeQC-x72dJTVWT6z_BqMescy4y26GG-aY
 
@@ -9059,20 +8723,6 @@ https://bit.ly/48fma7q
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTWwHj2JKp1CmwHqbCP2zyPggYMqWxMxdx8Q&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Kate (2021)
 https://www.googleapis.com/drive/v3/files/1AMW1odpW7RK5YbSP8K53h06Q4eS3Jvth?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/qVCZtwBGls866wBb4PAfYtAjyr8.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", King Kong (2005)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"x+p2kLIkeMG9q2zLG5TxsQ","kid":"mPY+J0BfVa2Kfg8mA7OL+Q"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d80394b3ae366782ad9b44b_hbovodhd/dash0/MYS_index.mpd
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/image-bunny.tmdb.org/t/p/w185/2dfujXrxePtYJPiPHj1HkAFQvpu.jpg?fit=185,185&quality=50&strip=all" group-title="VOD English" tvg-id="" tvg-name="", King Richard (2021) 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"pT3dH8wBNOlP5CvNhaa2hw","kid":"E1fCPqQkQzyDr+aXF8AQrg"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/61fbcf7dd940521074988bb3_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5zbPQxB4LbeXj_szASRF2Ekc-GMD6rlXBzw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Nightbooks (2021)
 https://storage.dewanonton.online/hls/5d2959b0-e2dd-413d-ba1c-93ced29c1aa1.mp4/index.m3u8
@@ -9127,13 +8777,6 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=79521&extension=m
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqE-XyH1284b-GKsADHYCxSOoblummVKD-Vw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", 12 Years A Slave (2013)
 https://storage.dewanonton.online/hls/30ae4e1f-c496-4bb2-93e0-41a9902dcb26.mp4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxvvO973G72pA16wIHZ_kN14dKo4QHlpgxuQ&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Batman V Superman Dawn Of Justice (2016)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"znj/+HN9BnnHnRlOeQkRBQ","kid":"ANSeEXliWZGMNEBQ/gB6+Q"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6062d9c96d048943f77a0f62_hbovodhd/dash0/MYS_DOLBY_index.mpd
-
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/BrceGo5.jpg" group-title="VOD English" tvg-id="" tvg-name="", Brave (2012)
 https://storage.dewanonton.online/hls/ddab077d-b9f1-4c79-8c0c-f2ea732f9d75.mp4/index.m3u8
 
@@ -9145,20 +8788,6 @@ https://storage.dewanonton.online/hls/9951b887-8e43-472f-96b6-59e4a51dec7e.mp4/i
 
 #EXTINF:-1 tvg-logo="http://hello.exodus-2.xyz:8080/images/movies/7GSSyUUgUEXm1rhmiPGSRuKoqnK.jpg" group-title="VOD English" tvg-id="" tvg-name="", John Carter (2012)
 https://storage.dewanonton.online/hls/a4e603a7-2006-4ca7-baa6-2d273c283679.mp4/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://muttsnutts.shacknet.biz:8080/images/fc3c8d6998e065a2ebe1f319b80953f7.jpg" group-title="VOD English" tvg-id="" tvg-name="", Justice League (2017)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vHS7+0CRB5XlnMOHq/tFCA","kid":"1gmofy2CUD2T75/ywGWfag"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d849e73d9bf810a0bbcd4a0_hbovodhd/dash0/MYS_index.mpd
-
-#EXTINF:-1 tvg-logo="http://hello.exodus-2.xyz:8080/images/movies/9kKXH6eJpzoFGhCbTN3FVwSQK3n.jpg" group-title="VOD English" tvg-id="" tvg-name="", King Arthur Legend of the Sword (2017) 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5Dbm2onFQ1AhiJXQAJKf1A","kid":"uN+x7febV/Se3+cqW0OZvw"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6342457dd940521074b73c60_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="http://hello.exodus-2.xyz:8080/images/movies/z42kyMizgDKetejusZgucSQsQ4l.jpg" group-title="VOD English" tvg-id="" tvg-name="", Need for Speed (2014)
 https://storage.dewanonton.online/hls/7108b862-3b44-4e0c-b25a-2b39cf9e05fc.mp4/index.m3u8
@@ -9231,13 +8860,6 @@ https://www.googleapis.com/drive/v3/files/1wn8bmqRRmRDeNsvhHrshzbFXGP4x-tgP?alt=
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzB11pQkRg3-zYFsF_4xarVMl36rZWAR3X7Q&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", X-Men Days of Future Past (2014)
 https://www.googleapis.com/drive/v3/files/1YKzNaFlV9Y_N7UvmZmuhuYCyGrL5mn8e?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJQtixY562LkuNM6f1HLit0ICGvn2_pgpD5Q&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Annabelle Comes Home (2019)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kfEKwVuRoef9XiJpD0BQhg","kid":"U08nIum5WcO1RinbbU/b2Q"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ea3b3776d048943f7505cb4_hbovodhd/dash0/MYS_index.mpd
-
 #EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/550.jpg" group-title="VOD English" tvg-id="" tvg-name="", DRAGON BALL SUPER BROLY (2019)
 https://www.googleapis.com/drive/v3/files/1vn6LKF11HkrdkfYcHHFDHmAqIy4tbJvg?alt=media&key=AIzaSyD5V1GCfvsuYwgzd_Q_WpK006-fSdTQskE
 
@@ -9258,13 +8880,6 @@ https://cloud.hownetwork.xyz/xxx/c7d8aee98848bab0ff32a96a702b2c68/31/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVbqhqYtlxwEGihTEhewZAgDOCX.jpg" group-title="VOD English" tvg-id="" tvg-name="", Mortal (2020)
 https://storage.dewanonton.online/hls/4764dc9c-a66e-4bcf-8bc3-48521c7d9932.mp4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnfzRxDnBFbM3HiRsQB0zujWZdF623fPW78w&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Mortal Kombat (2021)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yqVlg1hO922MiaOEzal8ww","kid":"ZzanwIubTCe3eU9Q7RdcUw"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/61b1ee3efbbcc21f45d1ba7a_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="http://hello.exodus-2.xyz:8080/images/movies/zsnQ41UZ3jo1wEeemF0eA9cAIU0.jpg" group-title="VOD English" tvg-id="" tvg-name="", Underworld (2003)
 https://bit.ly/48fhjmH
@@ -9314,20 +8929,6 @@ https://videos.files.wordpress.com/g3WNpYqU/despicableme_mp4_dvd.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHR2Ii6zlVVcNzbN3idvzlPGXfTgHH48ZiAw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Despicable Me 2 (2013)
 https://videos.files.wordpress.com/3Flbt8SJ/despicableme2_mp4_dvd.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-UOjl1ow7i0LWMITdixGR25H1wq306w3hOw&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Annabelle Creation (2017)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"o/KxnDxumhFgbb1aqAavrg","kid":"mOLGZX+lUn6kJgNn+p7Ttg"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8e2a72cbea8a6a4eef62fc_hbovodhd/dash0/MYS_DOLBY_index.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZNTImeEUV-AK4q2ztgqk-lsAFSgYMx6Rg1A&usqp=CAU" group-title="VOD English" tvg-id="" tvg-name="", Annabelle (2014)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PNX1mVDwOddkKCXJ3+iySw","kid":"Lip4EndCX6aVxYSEet/93Q"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7736963ae366782ad8d419_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_galaxypremium_small.png" group-title="English" tvg-id="GALAXYPremium" tvg-name="GALAXYPremium", GALAXY Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -9407,20 +9008,8 @@ https://bit.ly/49yX0SA
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71JXK7v7pvL._AC_UF894,1000_QL80_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Top Gun (1986)
 https://bit.ly/3UE8JL5
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/She%27s_on_Duty.jpg" group-title="VOD Chinese / Korean" tvg-id="" tvg-name="", SHES ON DUTY (2005)
-https://cdn.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/JJVLJRGbTJkQNF3S3YTZGl2QWdUN5Z3bOt0Vl9mNJ1SM/1920x1080
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDcyYzRiZmItMTliMS00M2JkLWE0MGMtOWFkMDJmOTAzY2IzXkEyXkFqcGdeQXVyOTMzOTMzMTg@._V1_FMjpg_UX1000_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Jester (2023)
 https://www.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/lZFaDdGZGJzaf9ERnRnbFBHWUBXYGt0coh0MkV0dZlVM/Original
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Possession_2023_film.jpg/220px-Possession_2023_film.jpg" group-title="VOD Chinese / Korean" tvg-id="" tvg-name="", Dr. Cheon and Lost Talisman (2023)
-https://cdn.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/xVWT5cUZRlDMrVjbiZzTwMUOWVXVf5kNWh3dp1CNtIWM/1920x804
-
-#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/5b39608d75f9eef54c62c3f0/5b3965cc758d4623ef4c41e6/5efbdad307e4d15ca3c6e884/1593707098516/metamorphosis_MAIN_POSTER.jpg?format=1500w" group-title="VOD Chinese / Korean" tvg-id="" tvg-name="", Metamorphosis (2019)
-https://www.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/PZjdfdkbZJ0XmZkNkNjbtUHdBFETBFGT2RFaC9kemlXM/Original
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/Yinyang_Master_Poster.jpeg" group-title="VOD Chinese / Korean" tvg-id="" tvg-name="", The Yin Yang Master (2021)
-https://cdn.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/nZlVLVlNMlzVt8kSGJ3RGVDdXBTY4sEOSFDNqh1TPtUM/Original
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/No_Exit_poster.jpeg" group-title="VOD English" tvg-id="" tvg-name="", No Exit (2022)
 https://storage.dewanonton.online/hls/422c53ef-8a09-4b6b-b4f6-ef0c1ec2542d.mp4/index.m3u8
@@ -9448,13 +9037,6 @@ https://cdn.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/Five_Nights_At_Freddy%27s_poster.jpeg" group-title="VOD English" tvg-id="" tvg-name="", Five Nights at Freddy (2023)
 https://storage.dewanonton.online/hls/484db020-7990-429a-8691-0382744ac15a.mp4/index.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3Y/9vLbSd1ckqpu4j3bjMw", "kid":"mI+rdd+eJ+RZD9hvlhcVng" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Mission-_Impossible_%E2%80%93_Dead_Reckoning_Part_One_poster.jpg" group-title="VOD English" tvg-id="" tvg-name="", Mission Impossible Dead Reckoning Part One (2023)
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/660f681bd940521074fa821f_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTNkYjc4YTYtZTVjNS00ZWI5LWI3MjItMWZiYTYzNTVmMWVjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg" group-title="VOD English" tvg-id="" tvg-name="", The Exorcist: Believer (2023)
 https://cdn.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/24Ed2okc3okeB1ycDBDatUlZjFTOLFXc2MHd0hDM6dXM/Original
@@ -9492,18 +9074,8 @@ https://storage.dewanonton.online/hls/d8889133-27cb-43f7-bcc6-8c8669cc4e48.mp4/i
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGFjYWNkMTMtMTg1ZC00Y2I4LTg0ZTYtN2ZlMzI4MGQwNzg4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Godzilla: King of The Monsters (2019)
 https://storage.dewanonton.online/hls/756b95f6-8bb4-4d53-b2bc-71ae4b60dd60.mp4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmYzMzU4NjctNDI0Mi00MGExLWI3ZDQtYzQzYThmYzc2ZmNjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Godzilla vs Kong (2021)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GjbBcsEBErFLJ9TJh3xwRA","kid":"FFurrfX8UIqZ+A+3MYa9Jw"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63e48965d940521074c68224_hbovodhd/dash0/MYS_DOLBY_index.mpd
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDcxZGI3NTktNzVjMy00ZWM3LWFlZWMtZThjMDEwNTQ5NjNjXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Jarhead: Law of Return (2019)
 https://storage.dewanonton.online/hls/72cc00fd-e2fd-4046-b17f-3a5ee06c5c4c.mp4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWYwZTBmNjgtNzlhMy00Y2MyLWEyZGItMzExOGY0MDIzZDZhXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_FMjpg_UX1000_.jpg" group-title="VOD Chinese / Korean" tvg-id="" tvg-name="", Fist of Legend (1994)
-https://cdn.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/5lDW2p2bs5Wc0NGUBtmVF1ySWFmbnFWcWJzMwNTSDZTM/Original
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTA2YTI5YjUtZWI4Zi00NWQ5LWFiYmEtOTBmNTUyNDAwNjllXkEyXkFqcGdeQXVyNjIzNzM4NzA@._V1_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Murder Mystery (2019)
 https://storage.dewanonton.online/hls/2a6f75eb-a232-4d91-b995-ac2dcc0bbfab.mp4/index.m3u8
@@ -9514,13 +9086,6 @@ https://storage.dewanonton.online/hls/d41db06a-62e8-4ef8-bcc1-34f778148f69.mp4/i
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w500/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg" group-title="VOD English" tvg-id="" tvg-name="", Shrek 2 (2004)
 https://stream.hownetwork.xyz/xxx/shrek-2-2004-bluray/17/480.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/international-dubbing/images/7/77/Birds_of_Prey.png/revision/latest?cb=20210307012533" group-title="VOD English" tvg-id="" tvg-name="", BIRDS OF PREY: AND THE FANTABULOUS EMANCIPATION OF ONE HARLEY QUINN (2020)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"on9vJ+LTK87M7cT7i3sRgg","kid":"+AYdlEHiUBiXiNTosn9NrA"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5feaed166d048943f76f000c_hbovodhd/dash0/MYS_DOLBY_index.mpd
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYEbzjKgz59FKHQGAyVC_bAuTn2B-YZ_9z1w&s" group-title="VOD English" tvg-id="" tvg-name="", The Flash (2023)
 https://cdn.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/I9lUQhXLZ5kQU9VbyEjTz4EZhhVS3lXW0d0Sx4UUWlTM/Original
 
@@ -9530,22 +9095,8 @@ https://cdn.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODdkMTk5ODMtYjhkMS00MGNlLThkMmItYjRjMTc2ZWY1OWIxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)
 https://cdn.juraganfilm.my.id/cloud/gTZ2gTO0AzNiRmZ0QWOwYDNkNjZ4YjNyEDM5gjNyIGM/rllcz0WZoJVMvBTUthlePdUYE52X04GN0w0NwVEeL1UM/Original
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/bourne/images/4/4d/Jason_Bourne_Movie_Poster_-_In_Theaters_July_29th%21.jpg/revision/latest?cb=20170702105720" group-title="VOD English" tvg-id="" tvg-name="", Jason Bourne (2016)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"fw5gVJOwM9I8HYiG3Xiufw","kid":"SO0s1Hd2dheuUCSpy0QWkw"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636bcb5fd940521074bb26a4_hbovodhd/dash0/MYS_DOLBY_index.mpd
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjRhMWY0ODMtMmM3OC00ZGRmLWIyZjktZGQ0ZGE4MzcyZWE5XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg" group-title="VOD English" tvg-id="" tvg-name="", A DOGS JOURNEY (2019)
 https://storage.dewanonton.online/hls/f2c829bf-fb07-4a14-baf3-f1b66ebed2a1.mp4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGIxYTU5MzctY2MzNS00MTRhLWEwM2UtY2Q5Mzk3OTAzMzcwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg" group-title="VOD English" tvg-id="" tvg-name="", Clifford the Big Red Dog (2021)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"tMnUSAIo15mQDSCyPpJoTQ","kid":"xzQlonBn1aBTgwHK/5DBdg"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63173da1d940521074b33525_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg5MjcwMzY5OV5BMl5BanBnXkFtZTgwMDM0OTI1NjM@._V1_.jpg" group-title="VOD English" tvg-id="" tvg-name="", A DOGS WAY HOME (2019)

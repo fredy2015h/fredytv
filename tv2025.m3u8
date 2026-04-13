@@ -981,9 +981,6 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn1Fyrupe1tmI0H9_8rrX4Y8KQUIeW8L3MxA&s" group-title="KIDS",MOONBUG
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="First Warrior" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKZhMvTW9J0CMwJ847U6_zCSevrO7nGzVpkIXw_la-DxoIdtgQEL1UeYcQdUM7WWWJVOTGHTm1SSHjfShYRBsIBt-Zax5edbEB072TcdcW_CaqZDRFndkl6w4njImwJMkcgVtKIZrXxlaztq36KpeWdU7QnORylEox6qDzntjFpMtRWRaRLeX8vnSroXg/s700/FirstWarrior.png" group-title="KIDS",First Warrior
-https://iptv.lancartech.co.id:443/Acongfarhan@12/19122024/78
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtVjXBlqQAZS3p3ha_x6qwk3EhsaHXjjqgNWYhoCIdyeQkQKBY_Gws6_422fDlJBLL-cLOmgt0vhDmHO15GVDC8EKRAifRFWOhfE24ioM_zbTWtPhG3GGaBOpOocSnKlpCvPPxoXKgVKqqQ34bnUgCr5K0vVbz70zp3XX9Z66tCjxL0fzzdKcyRXM-zBs/s700/MtkMudah.jpg" group-title="KIDS" , Matematika TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch80.m3u8
@@ -992,27 +989,13 @@ https://flv.intechmedia.net/live/ch80.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch83.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio1t6Yl_YaFM88JrD_a3kSdN25cJTSbCQ9C2NtwVsN1bbEumqfhdLvZm6lQp19gVASVeFhaGOzjgTOA0k5mdfpAdb00BNQr9Ko4cf0K3KnNbNxLNwrAKeaKAFeuwN4fcVdHfT1ZskyKVhPHK4mHNXaEDTvXg4BwSwq-Yv6Wb4F8ezh3MVbC3YZedppzM8p/s700/ANIMAX.png" group-title="KIDS", Animax
-https://iptv.lancartech.co.id:443/Acongfarhan@12/19122024/169
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAuSnBpTGSfMBR7wZMAueKtHv-bKgDX0w06BrOE3WcK9LAUrRDfBvXGRYs_RDXgsQSYdjHlSjfet16LZKaqdIMAgTuO0l6WBgeB9J5wa9zLpLABC9psc0sydyaJqQvCCtgg3qj2YKGb0BrQKIXYWteVrpOyG9h1QY-Sf6jXSiB3xyie0sCqBfpiNPbJpUr/s700/ANIPLUS.png" group-title="KIDS",Aniplus
-http://vipbxcass.top:8080/VIP01697172669118799/80fba95604f6/34397
-
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="FunPlanet.id" tvg-name="Fun Planet" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy3BfVm4YvrbD_YHuY-nzijM5nd5PhRJdXPrL_h-kj3uWMQlR1THZMMvDx5zGcvJgRHJMh2AZVIvVKetJzICoFB8tq6Hzd-Rg8OrW5PeaB4IEDfvyeEmDXMRf4DeJDmUGcs94pvVWkWopzqt0zXPSfLJyyXScjfqxGlQ5ug_QArfzkQLnEqbkRGApC89IU/s700/FUN%20PLANET.png" group-title="KIDS",Fun Planet
 https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD8PW2S_Rg8-1RbfVgPZStgdoJPNgVe6Go9bAZxUOfQYdcwUgLoGXncyo_JhL5yAWu0MfFYgUv_BYaQeRMiScCwQSwcEoYb9zmmi4yd_5mHSKFQrEnBVHLFyv11Aw7WSwTgY5GfYJFLRCdqSyIeveCOggt-N-yolLwsO1Mdkll7WoMatt9gVASjY82Kx7d/s700/CARTOON%20NETWORK.png",Cartoon Network
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxe1b_9OuyposFCp0YGUPvICRkRsn9cnjnco7qNBlmBjMODcpacSKJP5xEx0Aw4coLTRrSgdoYrVtxVQBuXYLT5pvjBTiU8yVnQan0yV_aD90uBN1E_f_mG4r2H5AtUQ3kVwGLNwqFzeoGGm973Xyh-bs-3z-h2YN4EC7mn-dDpdNOvPv-2KzId_yxOC_0/s700/CARTOONITO.png" group-title="KIDS",Cartoonito
 https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="Kartoon" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9IFzYAjG6VlK4kTgYaVYlw_KiunjT8xMK3mHh1dHEfv40l2Pw9UjTjJRFzNmjAZhVJFx5e30GKnN3rbFA2CHncEvHtEUkAHsfdgXJTc0FPha24dBlKD0EoKyHbP0KOpI1xOcqBesvjfxoB0__f2tflaYnjwvD88jevHDT7ViNW0hhq2RcuDziEoautjg/s700/Kartoon%20Channel.png" group-title="KIDS",Kartoon Channel
-https://iptv.lancartech.co.id:443/Acongfarhan@12/19122024/73343
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=http://www.biznetvideo.net/
@@ -1021,42 +1004,11 @@ https://iptv.lancartech.co.id:443/Acongfarhan@12/19122024/73343
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=BFQE_NtUYLScAUYvx2vpe9IsezHwkSHpL8q-eqK12ZvrexZJmhAVeqDFTOrWvYXR
 
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq-fjC9M_pToKpz-XhIGBwrShV-BA3yFMsNgp5MlqYxQ51Vkn81Kx_TKwgGcWT9Kvlu93x6H1xJ23nymWr_C8MF3flyea-AoURR9loeGXZyf0upGScg7Aui6cZ8cDJKwdPX8bDoDCWY_K22GJIT7CZfCM69FczQg16KbsW-mb1KYjRGOR5Y_3-JsGd0uDF/s700/NICK%20JR.png" group-title="KIDS",Nickelodeon Jr.
-https://iptv.lancartech.co.id:443/Acongfarhan@12/19122024/182
-
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCI7DQRt-B39F8y2Tb6IJr0_0uAhEE-4LjiH_2PQ5E0OxXRTCfVUhwNg7pq_d3sKigz8GaIQGuKhxI7K7Ki0BM12y8SYxRjjL_1NtjGBXfPeSio2b8SJHye9JZ2vN-BhO1CjKil2Ft0ggAEq8ZYOflAL1U704t3aymI9aaLxzgzfLuU4rA5bklqR0IxNwa/s700/NICKELODEON.png" group-title="KIDS",Nickelodeon
-https://iptv.lancartech.co.id:443/Acongfarhan@12/19122024/181
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfySBAhsmn9UR23UmYoq1gy34zd-LG-TL916KkuIOr0Zg1WARObs5eDpWidxdDJ5LqqTqO_G8bMx4RrVEc_WnDR21E349fdEZm72A865ktF98Fh5649d5h-CUGKhr3KXqvxchNmFsAwyhI8Lg2yeVJ2aUN6CUwyQ-SE9yiSsEY9PkjgAfmxUWTHOjGMSJK/s700/MYKIDZ.png" group-title="KIDS", My Kidz
-http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Kidz_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjc3uin9CEDW07GE6B8ejoI6BP40hUtzSKqx9ZaEOc46RIjLCTe62pntl7dy4q0o_VySm06OF7dk-E5PicrODlqI9myRgSY2n0bsnmmukOWBrArE5ow8TikAZjkgDVNJLnlOjeS8GjMal7gNc9lXSVMufqEldrg7qrKSlDpVcJu_Rmait6qUI-yMTEgUGg/s700/PBS%20KIDS.png" group-title="KIDS",PBS Kids
-http://iptvtree.net:8080/mrhyena10/0ec929873f/14837
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKOykZSqEpD7tPhkQOWnDt6sAwWbM305mXMMwKgp9GYQkEjOQJj_l9CdoVse7IHNiPCv9o6lwNo0EeSfJR-PMc60T6ife2oqgaDFtwYVOBiojB9TcZa2Lopw8vBPjzxOyEbqGPnmwjxHcF4_6RIKMByHr4I5i1Nps3e614oukHlys1pPCa6Ah0gbI-ZNI/s700/20251207_001750.jpg" group-title="KIDS",TG Junior
-http://iptvtree.net:8080/mrhyena10/0ec929873f/298826
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="DreamWorks.id" tvg-name="Dreamworks HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxb9SuypJX2_Y1hZ6kTn89Ciu8foog9qrOP5D-70xxnNllwUSvwsfbdDyQUjB2-R7prKzQ68Rt-nSzMBeNq1d1HyQ8HSe4uzE3M5P6JoIOGB-wb7V5FOQyu4qWvVP-U0pIAXVqm00pwo96RK0CLYiHkfmlR9Bx40E0ibCI3zGvBllUQpoMVhSIg1_rx18R/s700/DREAMWORKS.png" group-title="KIDS",Dreamworks
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbhvgcVgIGq5_126O7vFsRHZI_mHRTC1LgSguWeQtAUomNjh-WGOXx7QoWPVkM0kdAjLSDX4d5D900dR-SNWtoVlYdQ2LUanRuia1xcPr9XxEsbNSE-yKpbBbmWLj1kVJ_e6gIUIk0nt2ryAKlw6Mh6LZOWgmCQNYYh05nK8DTEodGKFagUP56Z-XB_TMb/s700/CBEEBIES.png" group-title="KIDS",CBeebies
-http://iptvtree.net:8080/mrhyena10/0ec929873f/4753
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2SznA3L2cURUvrXOigjzj6XP8fgPJR_ELRaSL2QZL5azRyinXRdNC6jFmmC8gtkZTLh5O0j6ynBBJ4TFsnpGYht0aRZw7b-jq-gHvjgXfP3Y-MDtUWycHFkWVkoBStB4BmvNwQemh2AfevgWltjeuoTdZ2PNemmwX44-7YDLTy6eWWgrNfR8iWkmx2AMF/s700/ZOOMOO.png" group-title="KIDS", Zoomoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_T0l_3bIUfn5V9-b_uuHGEjNYpo3WlbFFa5lBcQzS2O5uqbQat5G0sCowtbyJBGrrSkWe2oa1zeLwU_ERHNEZ2Kxt_87NdV5mfs4hoh8QoskVof1W8WzpM9nqCEAGkEV2NyjK_xx0Sihwb1UWvMZl6Awxz9wMXeQp35N-WY5hwmjGKA3rzgdC4I60l3jD/s700/MOONBUG.png" group-title="KIDS",Moonbug
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVW5_nDxN_LepqZPPnJNlIVflbaZtoCeToSkUIAhBws-F6_e-Z_Q8PT3R_EApdzU0eKRMT47g5DFf6100CtGcSOd40P88o5FB7U8WN5p8Zvn4DQy5CmvPPdwoqYiJLvdyqR_9Y3vuldQ9nE9oMja-l5R7RT1_te0ZTvCKkgfk01syht5ZmkaP3jzGfaicY/s700/DISNEY%20CHANNEL.png" group-title="KIDS",Disney Channel
-http://iptvtree.net:8080/mrhyena10/0ec929873f/2303
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3ARPazk3dre3aAjOOapxiF-oNX92rqjwGkVR_eyThkQ3cy1-idXgqmH2Lu3jTWLtFcMLbTPmpxgnN24-v9LZGxQKNeRq6of0UkKhcFlJEokJnKZDGwk-MDYNWrBP0qqRqOK-oYflphiqrMKHRu6XGFllWOyZG5wIhO9jyyJbguR07W1Sul-rmZ9bRzE7f/s700/DISNEY%20JUNIOR.png" group-title="KIDS",Disney Junior
-http://iptvtree.net:8080/mrhyena10/0ec929873f/8608
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3p12wNRmxJGkz1FNevGXcidmegtXZv_FQ4ld6oUVtPw2i6C4AR3UXuFSqaoCy_P3VmLFgSzqCGRVBd3nIVNaTkETYQl7ZTWWTuQ2A-BCr7EW3W2jjjD_ohlLnbFaHtbE81Zy2sRHHws1vBKwOnZbpw-ORA11kqD3rw93Ju43ojqBwiCI_DGpqAv8APME/s700/20251207_001716.jpg" group-title="KIDS",Disney XD
-http://iptvtree.net:8080/mrhyena10/0ec929873f/6395
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_0DJDXYBsLkW4y7ynxvLVepqC2cKFozV7ZR0sQWq8TvhOie9wEmfceR9GA-w2xnK3M95DukSjm8Ft3EzNC8qLACD0fyGRFFSSdUvH-PF8aMGQ3yFrYU9JrHnkk-jidMQVkYFZCh0VHGHzbCuiQ289t9C5ffAeWuWNWr9AmcEgffyErKO9WagrrvgSWxE/s700/BBCKids.png" group-title="KIDS",BBC Kids
 https://d26xbpvvy0tj0m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ym2cgz6gmgem/playlist.m3u8

@@ -9,10 +9,8 @@ https://web.facebook.com/isigameindo/
 
 <=================== INDONESIA =============================>
 
-#EXTINF:-1 group-title="1.INDONESIA", SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:network-caching=1000
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png" tvg-country="ID" tvg-url="" group-title="1.INDONESIA",SCTV
+http://202.80.222.182/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 group-title="1.INDONESIA", DAAI TV
 #EXTVLCOPT:http-user-agent=android-R+

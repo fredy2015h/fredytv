@@ -388,6 +388,65 @@ http://88.212.15.47/live/test_hbo2_hd_hevc/playlist.m3u8|user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="" group-title="movie",HBO 3
 http://88.212.15.47/live/test_hbo3_hd_hevc/playlist.m3u8|user-agent=Mozilla/5.0
 
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="EXYU - HBO HD" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/HBO-1.png" group-title="movie",EXYU - HBO HD
+http://raztv.online:80/EWXP84N/Q2Y8Z8U/74775
+#EXTINF:-1 tvg-id="HBO 2 FHD RS/HR/SLO/MK" tvg-name="EXYU - HBO 2 HD" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/HBO-1.png" group-title="movie",EXYU - HBO 2 HD
+http://raztv.online:80/EWXP84N/Q2Y8Z8U/74776
+#EXTINF:-1 tvg-id="Epic Drama FHD RS/HR/MK" tvg-name="EXYU - EPIC DRAMA HD" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/EPICDRAMA.png" group-title="movie",EXYU - EPIC DRAMA HD
+http://raztv.online:80/EWXP84N/Q2Y8Z8U/74779
+#EXTINF:-1 tvg-id="STAR TV FHD TUR" tvg-name="EXYU - STAR TV HD" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/STARTV.png" group-title="movie",EXYU - STAR TV HD
+http://raztv.online:80/EWXP84N/Q2Y8Z8U/74780
+#EXTINF:-1 tvg-id="Fox Life" tvg-name="EXYU - STAR LIFE HD" tvg-logo="https://go4.pw/EUROPE/EXYU/SLO/FOX.png" group-title="movie",EXYU - STAR LIFE HD
+http://raztv.online:80/EWXP84N/Q2Y8Z8U/74797
+#EXTINF:-1 tvg-id="Fox Crime" tvg-name="EXYU - STAR CRIME HD " tvg-logo="https://go4.pw/EUROPE/EXYU/SLO/FOX.png" group-title="movie",EXYU - STAR CRIME HD 
+http://raztv.online:80/EWXP84N/Q2Y8Z8U/74798
+#EXTINF:-1 tvg-id="Fox Movies" tvg-name="EXYU - STAR MOVIES HD " tvg-logo="https://go4.pw/EUROPE/EXYU/SLO/FOX.png" group-title="movie",EXYU - STAR MOVIES HD 
+http://raztv.online:80/EWXP84N/Q2Y8Z8U/74799
+#EXTINF:-1 tvg-id="Fox" tvg-name="EXYU - STAR CHANNEL HD " tvg-logo="https://go4.pw/EUROPE/EXYU/SLO/FOX.png" group-title="movie",EXYU - STAR CHANNEL HD 
+http://raztv.online:80/EWXP84N/Q2Y8Z8U/74800
+#EXTINF:-1 tvg-id="TV 1000" tvg-name="EXYU - TV 1000 HD" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/TV1000-1.png" group-title="movie",EXYU - TV 1000 HD
+http://raztv.online:80/EWXP84N/Q2Y8Z8U/74781
+#EXTINF:-1 tvg-id="Superstar TV" tvg-name="EXYU - SUPER STAR TV TEST HD" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/STARTV.png" group-title="movie",EXYU - SUPER STAR TV TEST HD
+http://raztv.online:80/EWXP84N/Q2Y8Z8U/74782
+#EXTINF:-1 tvg-id="CineStar TV" tvg-name="EXYU - CINESTAR TV HD" tvg-logo="https://go4.pw/EXYU/CINESTAR.png" group-title="movie",EXYU - CINESTAR TV HD
+http://raztv.online:80/EWXP84N/Q2Y8Z8U/74784
+#EXTINF:-1 tvg-id="CineStar TV Action & Thriller" tvg-name="EXYU - CINESTAR ACTION TV HD" tvg-logo="https://go4.pw/EXYU/CINESTAR.png" group-title="movie",EXYU - CINESTAR ACTION TV HD
+http://raztv.online:80/EWXP84N/Q2Y8Z8U/74785
+#EXTINF:-1 tvg-id="Cinestar Fantasy" tvg-name="EXYU - CINESTAR FANTASY HD" tvg-logo="https://go4.pw/EXYU/CINESTAR.png" group-title="movie",EXYU - CINESTAR FANTASY HD
+http://raztv.online:80/EWXP84N/Q2Y8Z8U/74786
+#EXTINF:-1 tvg-id="CineStar TV Premiere 1 HD" tvg-name="EXYU - CINESTAR PREMIERE 1 HD" tvg-logo="https://go4.pw/EXYU/CINESTAR.png" group-title="movie",EXYU - CINESTAR PREMIERE 1 HD
+http://raztv.online:80/EWXP84N/Q2Y8Z8U/74787
+#EXTINF:-1 tvg-id="CineStar TV Premiere 2 HD" tvg-name="EXYU - CINESTAR PREMIERE 2 HD" tvg-logo="https://go4.pw/EXYU/CINESTAR.png" group-title="movie",EXYU - CINESTAR PREMIERE 2 HD
+http://raztv.online:80/EWXP84N/Q2Y8Z8U/74788
+#EXTINF:-1 tvg-id="Cinemax 1 HD" tvg-name="EXYU - CINEMAX 1 HD" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/CINEMAX-1.png" group-title="movie",EXYU - CINEMAX 1 HD
+http://raztv.online:80/EWXP84N/Q2Y8Z8U/74789
+#EXTINF:-1 tvg-id="Cinemax 2 HD" tvg-name="EXYU - CINEMAX 2 HD" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/CINEMAX-1.png" group-title="movie",EXYU - CINEMAX 2 HD
+http://raztv.online:80/EWXP84N/Q2Y8Z8U/74790
+#EXTINF:-1 tvg-id="Klasik TV" tvg-name="EXYU - KLASIK TV HD" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/KLASIKTV.png" group-title="movie",EXYU - KLASIK TV HD
+http://raztv.online:80/EWXP84N/Q2Y8Z8U/74791
+#EXTINF:-1 tvg-id="M1 Film MK" tvg-name="EXYU - M1 FILM HD" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/M1.png" group-title="movie",EXYU - M1 FILM HD
+http://raztv.online:80/EWXP84N/Q2Y8Z8U/74792
+#EXTINF:-1 tvg-id="M1 Gold" tvg-name="EXYU - M1 FILM GOLD HD" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/M1.png" group-title="movie",EXYU - M1 FILM GOLD HD
+http://raztv.online:80/EWXP84N/Q2Y8Z8U/74793
+#EXTINF:-1 tvg-id="M1 Film" tvg-name="EXYU - M1 FILM FAMILY HD" tvg-logo="https://go4.pw/EXYU/M1_FILM_FAMILY.png" group-title="movie",EXYU - M1 FILM FAMILY HD
+http://raztv.online:80/EWXP84N/Q2Y8Z8U/1239894
+#EXTINF:-1 tvg-id="AXN Spin" tvg-name="EXYU - AXN SPIN HD" tvg-logo="https://go4.pw/EUROPE/POLONIA/axnSpin.png" group-title="movie",EXYU - AXN SPIN HD
+http://raztv.online:80/EWXP84N/Q2Y8Z8U/74794
+#EXTINF:-1 tvg-id="kinotv.pl" tvg-name="EXYU - KINO TV HD" tvg-logo="https://go4.pw/EXYU/KINO_TV_.png" group-title="movie",EXYU - KINO TV HD
+http://raztv.online:80/EWXP84N/Q2Y8Z8U/74795
+#EXTINF:-1 tvg-id="" tvg-name="EXYU - SUPER STAR 2" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/STARTV.png" group-title="movie",EXYU - SUPER STAR 2
+http://raztv.online:80/EWXP84N/Q2Y8Z8U/1182041
+#EXTINF:-1 tvg-id="" tvg-name="EXYU - SUPER STAR 3" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/STARTV.png" group-title="movie",EXYU - SUPER STAR 3
+http://raztv.online:80/EWXP84N/Q2Y8Z8U/1182040
+#EXTINF:-1 tvg-id="SciFi FHD" tvg-name="EXYU - SCI-FI HD" tvg-logo="https://go4.pw/EXYU/SCI_FI.png" group-title="movie",EXYU - SCI-FI HD
+http://raztv.online:80/EWXP84N/Q2Y8Z8U/1239891
+#EXTINF:-1 tvg-id="" tvg-name="EXYU - FILMBOX STAR HD" tvg-logo="https://go4.pw/EXYU/FILMBOX_STAR.png" group-title="movie",EXYU - FILMBOX STAR HD
+http://raztv.online:80/EWXP84N/Q2Y8Z8U/1239892
+#EXTINF:-1 tvg-id="FilmBox Extra FHD" tvg-name="EXYU - FILMBOX EXTRA HD" tvg-logo="https://go4.pw/EXYU/FILMBOX_EXTRA.png" group-title="movie",EXYU - FILMBOX EXTRA HD
+http://raztv.online:80/EWXP84N/Q2Y8Z8U/1239893
+#EXTINF:-1 tvg-id="AXN" tvg-name="EXYU - AXN ADRIA HD" tvg-logo="https://go4.pw/EXYU/AXN_ADRIA.png" group-title="movie",EXYU - AXN ADRIA HD
+http://raztv.online:80/EWXP84N/Q2Y8Z8U/1239895
+
 ##===========================
 ##        S A M S U N G
 ##===========================

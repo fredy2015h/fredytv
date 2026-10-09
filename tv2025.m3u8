@@ -128,33 +128,269 @@ https://jmp2.uk/plu-656ef4af4261ca00083c8f37.m3u8
 #EXTVLCOPT:http-user-agent=android-R+
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="1.INDONESIA",Indosiar
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+#EXTINF:-1 tvg-logo="" group-title="",RCTI
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+#EXTVLCOPT:http-origin=https://m.rctiplus.com
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="1.INDONESIA",SCTV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=204type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
+#EXTINF:-1 tvg-logo="" group-title="",RCTI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://m.rctiplus.com
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="1.INDONESIA",Nusantara TV (ChannelFeed)
+#EXTINF:-1 tvg-logo="" group-title="",MNCTV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+#EXTVLCOPT:http-origin=https://m.rctiplus.com
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
+#EXTINF:-1 tvg-logo="" group-title="",MNCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://m.rctiplus.com
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
+
+#EXTINF:-1 tvg-logo="" group-title="",GTV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+#EXTVLCOPT:http-origin=https://m.rctiplus.com
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
+#EXTINF:-1 tvg-logo="" group-title="",GTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://m.rctiplus.com
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
+
+#EXTINF:-1 tvg-logo="" group-title="",INEWS
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+#EXTVLCOPT:http-origin=https://m.rctiplus.com
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+
+#EXTINF:-1 tvg-logo="" group-title="",INEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://m.rctiplus.com
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
+
+#EXTINF:-1 group-title="" tvg-logo="",SCTV
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-origin=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=204
+
+#EXTINF:-1 group-title="" tvg-logo="",INDOSIAR
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-origin=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=205
+
+#EXTINF:-1 group-title="" tvg-logo="",ANTV
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-origin=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=782
+
+#EXTINF:-1 tvg-logo="" group-title="",TRANS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://video.detik.com
+#EXTVLCOPT:http-referrer=https://video.detik.com/
+
+#EXTINF:-1 tvg-logo="" group-title="",TRANS 7
+#EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
+#EXTVLCOPT:http-origin=https://video.detik.com
+#EXTVLCOPT:http-referrer=https://video.detik.com/
+https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",TRANS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://video.detik.com
+#EXTVLCOPT:http-referrer=https://video.detik.com/
+https://trans.diorx.my.id/trans7.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",TRANS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://video.detik.com
+#EXTVLCOPT:http-referrer=https://video.detik.com/
+
+#EXTINF:-1 tvg-logo="" group-title="",TRANS TV
+#EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
+#EXTVLCOPT:http-origin=https://video.detik.com
+#EXTVLCOPT:http-referrer=https://video.detik.com/
+https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w2685575259_b744100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",TRANS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://video.detik.com
+#EXTVLCOPT:http-referrer=https://video.detik.com/
+https://trans.diorx.my.id/transtv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",TVONE
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-origin=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=783
+
+#EXTINF:-1 tvg-logo="" group-title="",METRO TV
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-origin=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=777
+
+#EXTINF:-1 tvg-logo="" group-title="",TVRI
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-origin=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=6441
+
+#EXTINF:-1 tvg-logo="" group-title="",KOMPAS TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+https://op-group1-densxvisionhd-1.dens.tv/s/s104/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",KOMPAS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
+https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",MOJI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",MDTV
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-origin=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=875
+
+#EXTINF:-1 tvg-logo="" group-title="",JTV
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-origin=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=9713
+
+#EXTINF:-1 tvg-logo="" group-title="",JAKTV
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-origin=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=5415
+
+#EXTINF:0 tvg-logo="" group-title="",RTV
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-origin=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=1561
+
+#EXTINF:-1 tvg-logo="" group-title="",NTV
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-origin=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=7432
+
+#EXTINF:-1 tvg-logo="" group-title="",DAAI
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-origin=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=6482
+
+#EXTINF:-1 tvg-logo="" group-title="",BERITASATU
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-origin=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=18280
+
+#EXTINF:0 tvg-logo="" group-title="",BTV
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-origin=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=6165
+
+#EXTINF:-1 tvg-logo="" group-title="",CNBC INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cdn.siar.us/
-https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+#EXTVLCOPT:http-origin=https://live.cnnindonesia.com
+#EXTVLCOPT:http-referrer=https://live.cnnindonesia.com/
+https://live.cnnindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/TVRI_World_Old_Logo.png" group-title="1.INDONESIA",TVRI World
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/TVRIWorld.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/22/4e/f7/224ef7e43e8371e92c56ce599d09e45f.jpg" group-title="1.INDONESIA",Antara TV
-https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
+#EXTINF:-1 tvg-logo="" group-title="",CNBC INDONESIA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://video.detik.com
+#EXTVLCOPT:http-referrer=https://video.detik.com/
+https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" group-title="1.INDONESIA",MOJI TV
+#EXTINF:-1 tvg-logo="" group-title="",CNN INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://video.detik.com
+#EXTVLCOPT:http-referrer=https://video.detik.com/
+https://video.detik.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",CNN INDONESIA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://video.detik.com
+#EXTVLCOPT:http-referrer=https://video.detik.com/
+https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",GARUDA
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-origin=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=206type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=dash
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=18162
+
+#EXTINF:-1 tvg-logo="" group-title="" ,SINPO
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-origin=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=19046
+
+#EXTINF:-1 tvg-logo="" group-title="",MENTARI
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-origin=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=8237
+
+#EXTINF:-1 tvg-logo="" group-title="",MUSICA
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-origin=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=7619
+
+#EXTINF:-1 tvg-logo="" group-title="",BIOSKOP INDONESIA
+http://202.150.161.212:5000/live/channel35/playlist.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-logo="" group-title="",TVN MOVIES
+http://202.150.161.212:5000/live/channel30/playlist.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-logo="" group-title="",WARNER TV
+http://202.150.161.212:5000/live/channel29/playlist.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="",CARTOON NETWORK
+http://202.150.161.212:5000/live/channel27/playlist.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="",NICKELODEON
+https://stream8.cinerama.uz/1500/tracks-v1a1/mono.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/01YAHgw.png" group-title="1.INDONESIA",MAGNA TV (ChannelFeed)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36

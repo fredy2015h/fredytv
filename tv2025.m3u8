@@ -128,6 +128,12 @@ https://jmp2.uk/plu-656ef4af4261ca00083c8f37.m3u8
 #EXTVLCOPT:http-user-agent=android-R+
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 
+#EXTINF:-1 tvg-id="m3u_19_-277212276" tvg-name="RTV" tvg-logo="https://i.imgur.com/6mKllwF.png" group-title="1.INDONESIA",RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-origin=https://rtvstream.rtv.co.id
+#EXTVLCOPT:http-referrer=https://rtvstream.rtv.co.id/
+https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="1.INDONESIA",TRANS 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://video.detik.com
@@ -161,6 +167,12 @@ https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w2685575259_b744100
 #EXTVLCOPT:http-origin=https://video.detik.com
 #EXTVLCOPT:http-referrer=https://video.detik.com/
 https://trans.diorx.my.id/transtv.m3u8
+
+#EXTINF:-1 tvg-id="m3u_15_1715380855" tvg-name="TransTV" tvg-logo="https://www.transtv.co.id/layout/new/src/images/tv/TRANS%20TV%20live%20streaming%20tv.jpg" group-title="1.INDONESIA",TRANS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://live.cnnindonesia.com/
+#EXTVLCOPT:http-origin=https://live.cnnindonesia.com
+https://live.cnnindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="1.INDONESIA",KOMPAS TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
@@ -238,45 +250,6 @@ https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwkACcHNc4xZJyvtvGndGHVjfknCJZz4EakA&s" group-title="1.INDONESIA", GARUDA TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
-
-
-#EXTINF:-1 tvg-id="m3u_8_-1904115830" tvg-name="RCTI R+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_fpNIMSas2AN0S3eDBvBy1beqj-I-_8GIVnJlthTtJG7h9RHebW93f5Y&s=10" group-title="1.INDONESIA",RCTI
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-origin=https://www.rctiplus.com
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rplus.inisemar.my.id/rcti.m3u8
-
-#EXTINF:-1 tvg-id="m3u_7_-1298193542" tvg-name="MNCTV" tvg-logo="https://i.imgur.com/jOE2D69.png" group-title="1.INDONESIA",MNCTV
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-origin=https://www.rctiplus.com
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rplus.inisemar.my.id/mnctv.m3u8
-
-#EXTINF:-1 tvg-id="m3u_6_-815044587" tvg-name="GTV" tvg-logo="https://i.imgur.com/OPaUgqx.png" group-title="1.INDONESIA",GTV
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-origin=https://www.rctiplus.com
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rplus.inisemar.my.id/gtv.m3u8
-
-#EXTINF:-1 tvg-id="m3u_14_-256993808" tvg-name="Trans7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKpv42_NHgvbLPYtkmvnu3q3gA5kP0KsaZpUvzDk-tZeZX1tFGqdlh3t8&s=10" group-title="1.INDONESIA",TRANS 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-#EXTVLCOPT:http-referrer=https://live.cnnindonesia.com/
-#EXTVLCOPT:http-origin=https://live.cnnindonesia.com
-https://live.cnnindonesia.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="m3u_15_1715380855" tvg-name="TransTV" tvg-logo="https://www.transtv.co.id/layout/new/src/images/tv/TRANS%20TV%20live%20streaming%20tv.jpg" group-title="1.INDONESIA",TRANS TV
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://live.cnnindonesia.com/
-#EXTVLCOPT:http-origin=https://live.cnnindonesia.com
-https://live.cnnindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="m3u_19_-277212276" tvg-name="RTV" tvg-logo="https://i.imgur.com/6mKllwF.png" group-title="1.INDONESIA",RTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-origin=https://rtvstream.rtv.co.id
-#EXTVLCOPT:http-referrer=https://rtvstream.rtv.co.id/
-https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
-
 
 ##===========================
 ##        S A M S U N G
